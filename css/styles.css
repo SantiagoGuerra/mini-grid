@@ -143,6 +143,12 @@ body {
     margin-bottom: 16px;
   }
 
+  .item-medium-12 {
+    flex: 0 0 100%;
+    background: red;
+    margin-bottom: 16px;
+  }
+
 }
 
 .item:last-child,
