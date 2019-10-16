@@ -26,3 +26,13 @@ body {
   display: flex;
   margin-bottom: 56px;
 }
+
+.items {
+  flex: 1 1 auto;
+  background: red;
+  margin-right: 32px;
+}
+
+.items:last-child {
+  margin-right: 0;
+}
