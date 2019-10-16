@@ -73,7 +73,7 @@ body {
   }
 
   .item-medium-2 {
-    flex: 0 0 calc(((100% / 12) + (100% / 12))-2px);
+    flex: 0 0 calc((100% / 12) * 2 - 13.3333333333px);
     background: red;
     margin-right: 16px;
     margin-bottom: 16px;
