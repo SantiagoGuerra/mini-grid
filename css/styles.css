@@ -159,7 +159,7 @@ body {
   }
 
   .item-large-2 {
-    flex: 0 0 calc((100% / 12) * 2 - 13.3333333333px);
+    flex: 0 0 calc((100% / 12) * 2 - 25px);
     background: red;
     margin-right: 30px;
     margin-bottom: 30px;
@@ -251,6 +251,7 @@ body {
 .item-medium-9:last-child,
 .item-medium-9:last-child,
 .item-medium-9:last-child,
-.item-large-1:last-child  {
+.item-large-1:last-child,
+.item-large-2:last-child  {
   margin-right: 0;
 }
