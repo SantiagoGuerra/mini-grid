@@ -27,12 +27,12 @@ body {
   margin-bottom: 56px;
 }
 
-.items {
+.item {
   flex: 1 1 auto;
   background: red;
   margin-right: 32px;
 }
 
-.items:last-child {
+.item:last-child {
   margin-right: 0;
 }
