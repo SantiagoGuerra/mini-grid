@@ -194,7 +194,7 @@ body {
   }
 
   .item-large-7 {
-    flex: 0 0 calc((100% / 12) * 7 - 8px);
+    flex: 0 0 calc((100% / 12) * 7 - 15px);
     background: red;
     margin-right: 30px;
     margin-bottom: 30px;
