@@ -14,3 +14,10 @@ img {
 body {
   overflow-x: hidden;
 }
+
+.main-container {
+  width: 95%;
+  margin: auto;
+  height: 100%;
+  max-width: 1200px;
+}
