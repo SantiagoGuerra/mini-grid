@@ -25,14 +25,25 @@ body {
 .container {
   display: flex;
   margin-bottom: 56px;
+  flex-wrap: wrap;
 }
 
 .item {
-  flex: 1 1 auto;
+  flex: 1 0 auto;
   background: red;
-  margin-right: 32px;
+  margin-right: 16px;
 }
 
-.item:last-child {
+@media screen and (min-width: 320px) {
+  .item-small-1 {
+    flex: 0 0 calc((100% / 4) - 4px);
+    background: red;
+    margin-right: 4px;
+    margin-bottom: 4px;
+  }
+}
+
+.item:last-child,
+.item-small-1:last-child {
   margin-right: 0;
 }
