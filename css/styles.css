@@ -62,7 +62,10 @@ body {
     background: red;
     margin-bottom: 4px;
   }
+}
 
+@media screen and (min-width: 720px) {
+  
 }
 
 .item:last-child,
