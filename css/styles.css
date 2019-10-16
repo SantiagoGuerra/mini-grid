@@ -21,3 +21,8 @@ body {
   height: 100%;
   max-width: 1200px;
 }
+
+.container {
+  display: flex;
+  margin-bottom: 56px;
+}
