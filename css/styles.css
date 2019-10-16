@@ -93,6 +93,13 @@ body {
     margin-bottom: 16px;
   }
 
+  .item-medium-5 {
+    flex: 0 0 calc((100% / 12) * 5 - 10px);
+    background: red;
+    margin-right: 16px;
+    margin-bottom: 16px;
+  }
+
 
 
 }
@@ -104,6 +111,7 @@ body {
 .item-medium-1:last-child,
 .item-medium-2:last-child,
 .item-medium-3:last-child,
-.item-medium-4:last-child {
+.item-medium-4:last-child,
+.item-medium-5:last-child {
   margin-right: 0;
 }
