@@ -79,6 +79,14 @@ body {
     margin-bottom: 16px;
   }
 
+  .item-medium-3 {
+    flex: 0 0 calc((100% / 12) * 3 - 12px);
+    background: red;
+    margin-right: 16px;
+    margin-bottom: 16px;
+  }
+
+
 }
 
 .item:last-child,
@@ -86,6 +94,7 @@ body {
 .item-small-2:last-child,
 .item-small-3:last-child,
 .item-medium-1:last-child,
-.item-medium-2:last-child {
+.item-medium-2:last-child,
+.item-medium-3:last-child {
   margin-right: 0;
 }
