@@ -65,12 +65,18 @@ body {
 }
 
 @media screen and (min-width: 720px) {
-  
+  .item-medium-1 {
+    flex: 0 0 calc((100% / 12) - 14.6666666667px);
+    background: red;
+    margin-right: 16px;
+    margin-bottom: 16px;
+  }
 }
 
 .item:last-child,
 .item-small-1:last-child,
 .item-small-2:last-child,
-.item-small-3:last-child {
+.item-small-3:last-child,
+.item-medium-1:last-child {
   margin-right: 0;
 }
