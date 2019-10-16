@@ -122,3 +122,6 @@ public/
 .history
 
 # End of https://www.gitignore.io/api/git,node,visualstudiocode
+
+index.html
+*.html
