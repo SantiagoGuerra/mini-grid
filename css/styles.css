@@ -35,6 +35,26 @@ body {
   margin-bottom: 4px;
 }
 
+.padding {
+  padding: 4px
+}
+
+.padding-left {
+  padding-left: 4px;
+}
+
+.padding-right {
+  padding-right: 4px;
+}
+
+.padding-top {
+  padding-top: 4px;
+}
+
+.padding-bottom {
+  padding-bottom: 4px;
+}
+
 .main-container {
   width: 95%;
   margin: auto;
@@ -92,6 +112,26 @@ body {
   
   .margin-bottom {
     margin-bottom: 16px;
+  }
+
+  .padding {
+    padding: 16px
+  }
+  
+  .padding-left {
+    padding-left: 16px;
+  }
+  
+  .padding-right {
+    padding-right: 16px;
+  }
+  
+  .padding-top {
+    padding-top: 16px;
+  }
+  
+  .padding-bottom {
+    padding-bottom: 16px;
   }
 
   .item-medium-1 {
@@ -175,6 +215,26 @@ body {
   
   .margin-bottom {
     margin-bottom: 30px;
+  }
+
+  .padding {
+    padding: 30px
+  }
+  
+  .padding-left {
+    padding-left: 30px;
+  }
+  
+  .padding-right {
+    padding-right: 30px;
+  }
+  
+  .padding-top {
+    padding-top: 30px;
+  }
+  
+  .padding-bottom {
+    padding-bottom: 30px;
   }
 
   .item-large-1 {
