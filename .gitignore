@@ -123,5 +123,5 @@ public/
 
 # End of https://www.gitignore.io/api/git,node,visualstudiocode
 
-# index.html
-# *.html
+index.html
+*.html
