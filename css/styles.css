@@ -35,33 +35,31 @@ body {
   margin-bottom: 4px;
 }
 
-@media screen and (min-width: 320px) {
-  .item-small-1 {
-    flex: 0 0 calc((100% / 4) - 4px);
-    background: red;
-    margin-right: 4px;
-    margin-bottom: 4px;
-  }
+.item-small-1 {
+  flex: 0 0 calc((100% / 4) - 4px);
+  background: red;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
 
-  .item-small-2 {
-    flex: 0 0 calc((100% / 2) - 4px);
-    background: red;
-    margin-right: 4px;
-    margin-bottom: 4px;
-  }
+.item-small-2 {
+  flex: 0 0 calc((100% / 2) - 4px);
+  background: red;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
 
-  .item-small-3 {
-    flex: 0 0 calc((100% / 2) + (100% / 4) - 4px);
-    background: red;
-    margin-right: 4px;
-    margin-bottom: 4px;
-  }
+.item-small-3 {
+  flex: 0 0 calc((100% / 2) + (100% / 4) - 4px);
+  background: red;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
 
-  .item-small-4 {
-    flex: 0 0 calc(100% - 4px);
-    background: red;
-    margin-bottom: 4px;
-  }
+.item-small-4 {
+  flex: 0 0 calc(100% - 4px);
+  background: red;
+  margin-bottom: 4px;
 }
 
 @media screen and (min-width: 720px) {
