@@ -1,0 +1,23 @@
+{
+  "name": "mini-grid",
+  "version": "1.0.0",
+  "description": "build columns fast",
+  "main": "stylelint.config.js",
+  "devDependencies": {
+    "stylelint": "^10.1.0",
+    "stylelint-config-recommended": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGuerra/mini-grid.git"
+  },
+  "author": "Santiago Guerra & Vashira Musa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiagoGuerra/mini-grid/issues"
+  },
+  "homepage": "https://github.com/SantiagoGuerra/mini-grid#readme"
+}
